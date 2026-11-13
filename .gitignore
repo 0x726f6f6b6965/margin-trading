@@ -1,1 +1,7 @@
 .env
+deploy/.terraform/
+deploy/.terraform.lock.hcl
+deploy/*.tfstate
+deploy/*.tfstate.*
+deploy/terraform.tfvars
+deploy/build/
